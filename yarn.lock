@@ -18034,6 +18034,13 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"svelte-web3@npm:^1.3.4":
+  version: 1.3.4
+  resolution: "svelte-web3@npm:1.3.4"
+  checksum: d14a94f0c1425b66f1ca7c024817ca99c3647944f9d469f6507926a4b03a1e0850df8a9fa192f49892f2f83d59a29e83220de46e8b49bcc0bf959b4ef76667dc
+  languageName: node
+  linkType: hard
+
 "svelte@npm:^3.37.0":
   version: 3.37.0
   resolution: "svelte@npm:3.37.0"
@@ -18112,6 +18119,7 @@ fsevents@^1.2.7:
     svelte: ^3.37.0
     svelte-loader: ^3.1.1
     svelte-preprocess: ^4.7.0
+    svelte-web3: ^1.3.4
     tailwindcss: ^2.1.1
     tslib: ^2.2.0
     typescript: ^4.2.4
